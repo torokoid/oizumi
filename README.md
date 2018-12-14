@@ -70,8 +70,8 @@ body { background-color: #33ff99; }
 １８時までに完全撤収<br>
 その他：会費などは、未定です。記念品を作る予定ですが、希望する？しない？で変わってきます。<br>
 これから募集するので、参加人数によっては、会場も変わるかもしれません。 <br><br>
-<nobr><a href="http://alteatro.jp" target="_blank">アル・テアトロ　HPリンク</a></span>
-	<a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span></nobr>
+<nobr><a href="http://alteatro.jp" target="_blank">アル・テアトロ　HPリンク</a>
+	<a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></nobr></span>
 <!--
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
 	<br><br>
