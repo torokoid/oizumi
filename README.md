@@ -52,7 +52,7 @@ body { background-color: #33ff99; }
    
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、５０期かな？同窓会HP !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、3０期同窓会HP !!!</marquee></span></h1>
 	<span class="blue"><p align="right">背景挿入予定</p></span>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="ooizumi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
