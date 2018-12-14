@@ -62,7 +62,7 @@ body { background-color: #33ff99; }
 <div id="wrap">
 -->
 <div style="background-color:rgb(0,255,0,0.8);">
-<h6><span class="white"><br>還暦祝いの場所と時間をメモしておきます。<br><br>
+<h6><span class="white"><br>還暦祝いの場所と時間(by増子)をメモしておきます。<br><br>
 日　付：２０１９年６月１日（土）<br>
 場　所：池袋　東京芸術劇場２階　「アル・テアトロ」<br>
 受　付：１５時から<br>
