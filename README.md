@@ -84,7 +84,7 @@ body { background-color: #33ff99; }
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">とりあえず小椋さんを入れておきますね〜スライドショーで閲覧できます。</span></h3>
 <a href="IMG_2679.jpg" data-lightbox="abc"><img src="IMG_2679.jpg" alt="サンプル画像" width="1800" /></a>
-
+	</div></div>
 
 
 
