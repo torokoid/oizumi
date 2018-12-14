@@ -52,7 +52,7 @@ body::before {
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、同窓会HP !!!</marquee></span></h1>
-<p align="right">背景挿入予定</p>
+	<span class="blue"><p align="right">背景挿入予定</p></span>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="ooizumi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
@@ -82,7 +82,7 @@ body::before {
 
 
 
-<br><br><br><br><br>	
+<br><br><br><br><br>	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><h2><span class="yellow">
  <a href="https://torokoid.github.io/seisan-3/" target="_blank">会計計算、名前と金額の入力で割り勘計算が出来ます！</a>
 	</span></h2>  </section>
@@ -93,7 +93,7 @@ body::before {
 
 
 
-</div>
+
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
