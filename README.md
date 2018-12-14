@@ -45,6 +45,7 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 -->
+body { background-color: #33ff99; }
 </style> 
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
