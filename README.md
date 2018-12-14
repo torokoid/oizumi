@@ -30,7 +30,7 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-
+<!--
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
@@ -44,19 +44,19 @@ body::before {
   background:url(https://torokoid.github.io/Empty-s/2015_24.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
-
+-->
 </style> 
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
    
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
-<p align="right">2015、忘年会</p>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、同窓会HP !!!</marquee></span></h1>
+<p align="right">背景挿入予定</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="ooizumi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年12月8日、河口湖 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2019年6月1日、池袋 !!!</marquee></span></h2>
 <!--
 <div id="wrap">
 -->
@@ -66,15 +66,15 @@ body::before {
 場　所：池袋　東京芸術劇場２階　「アル・テアトロ」<br>
 受　付：１５時から<br>
 時　間：１５時３０分から１７時３０分まで<br>
-　　　　１８時までに完全撤収<br>
+１８時までに完全撤収<br>
 その他：会費などは、未定です。記念品を作る予定ですが、希望する？しない？で変わってきます。<br>
 これから募集するので、参加人数によっては、会場も変わるかもしれません。 <br><br>
-<a href="https://tabelog.com/yamanashi/A1903/A190302/19000519/" target="_blank">パルコ　デル　チェロ　HPリンク</a></span>
+<a href="https://tabelog.com/yamanashi/A1903/A190302/19000519/" target="_blank">アル・テアトロ　HPリンク</a></span>
+<!--
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
 	<br><br>
-
-
-
+-->
+	</h6>
 </div>
 
 <br><br>
