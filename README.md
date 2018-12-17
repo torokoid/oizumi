@@ -78,6 +78,7 @@ body { background-color: #33ff99; }
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
 	<br><br>
 -->
+	</span>
 	</h6>
 </div>
 
