@@ -72,14 +72,12 @@ body { background-color: #33ff99; }
 これから募集するので、参加人数によっては、会場も変わるかもしれません。 <br><br>
 <a href="http://alteatro.jp/access/" target="_blank">アル・テアトロ　アクセス</a>
 <!--
-	<a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
--->
-<!--
+<a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
 	<br><br>
 -->
-	</span>
-	</h6>
+</span>
+</h6>
 </div>
 
 <br><br>
