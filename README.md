@@ -46,7 +46,7 @@ body::before {
   }
 -->
 body {
-background-color: rgba(0, 225, 0, 0.2); 
+background-color: rgba(0, 225, 0, 0.4); 
 }
 section {
 background-color: rgba(255, 255, 255, 0.3);
@@ -93,6 +93,7 @@ background-color: rgba(255, 255, 255, 0.3);
 <a href="IMG_2679.jpg" data-lightbox="abc"><img src="IMG_2679.jpg" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">一期上の杉山先輩とぺヤング。</span></h3>
 <a href="S__1056805.jpg" data-lightbox="abc"><img src="S__1056805.jpg" alt="サンプル画像" width="1800" /></a>
+<br>
 </section> 
 
 
