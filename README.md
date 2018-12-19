@@ -49,9 +49,6 @@ body {
 background-color: rgba(0, 225, 0, 0.2); 
 }
 section {
-background-color: rgba(0, 225, 0, 0.3);
-}
-div {
 background-color: rgba(255, 255, 255, 0.3);
 }
 
@@ -71,7 +68,7 @@ background-color: rgba(255, 255, 255, 0.3);
 <div id="wrap">
 -->
 <section>
-<h6><span class="white"><br>還暦祝いの場所と時間(by増子)をメモしておきます。<br><br>
+<h6><span class="blue"><br>還暦祝いの場所と時間(by増子)をメモしておきます。<br><br>
 日　付：２０１９年６月１日（土）<br>
 場　所：池袋　東京芸術劇場２階　「アル・テアトロ」<br>
 受　付：１５時から<br>
@@ -91,12 +88,12 @@ background-color: rgba(255, 255, 255, 0.3);
 
 <br><br>
 
-<div>
+<section>
 <h3><span class="white">柔道部顧問の佐藤先生と小椋さんを入れておきますね〜スライドショーで閲覧できます。</span></h3>
 <a href="IMG_2679.jpg" data-lightbox="abc"><img src="IMG_2679.jpg" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">一期上の杉山先輩とぺヤング。</span></h3>
 <a href="S__1056805.jpg" data-lightbox="abc"><img src="S__1056805.jpg" alt="サンプル画像" width="1800" /></a>
-</div> </div>
+</section> 
 
 
 
