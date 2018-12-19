@@ -79,7 +79,7 @@ background-color: rgba(255, 255, 255, 0.3);
 １８時までに完全撤収<br>
 その他：会費などは、未定です。記念品を作る予定ですが、希望する？しない？で変わってきます。<br>
 これから募集するので、参加人数によっては、会場も変わるかもしれません。 <br><br>
-<a href="http://alteatro.jp/access/" target="_blank">アル・テアトロ　アクセス</a>
+<a href="http://alteatro.jp/access/" target="_blank">アル・テアトロ　アクセス</a><br>
 <!--
 <a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
@@ -91,21 +91,19 @@ background-color: rgba(255, 255, 255, 0.3);
 
 <br><br>
 
-<div id="wrap">
 <div>
 <h3><span class="white">柔道部顧問の佐藤先生と小椋さんを入れておきますね〜スライドショーで閲覧できます。</span></h3>
 <a href="IMG_2679.jpg" data-lightbox="abc"><img src="IMG_2679.jpg" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">一期上の杉山先輩とぺヤング。</span></h3>
 <a href="S__1056805.jpg" data-lightbox="abc"><img src="S__1056805.jpg" alt="サンプル画像" width="1800" /></a>
-</div></div>
+</div>
 
 
 
 <br><br><br><br><br>	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<section><h2><span class="yellow">
+<h2><span class="yellow">
  <a href="https://torokoid.github.io/seisan-3/" target="_blank">会計計算、名前と金額の入力で割り勘計算が出来ます！</a>
-	</span></h2>  </section>
-
+	</span></h2> 
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
