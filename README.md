@@ -46,7 +46,7 @@ body::before {
   }
 -->
 body {
-background-color: rgba(0, 225, 0, 0.7); 
+background-color: rgba(0, 225, 0, 0.4); 
 }
 section {
 background-color: rgba(255, 255, 255, 0.3);
