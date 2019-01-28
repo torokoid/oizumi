@@ -60,7 +60,7 @@ background-color: rgba(255, 255, 255, 0.3);
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
 	<span class="blue"><p align="right">背景挿入予定</p></span><br>
-<p align="left"> <img src="ermine.gif" width="205"><img src="hippo-o.gif" width="100"><img src="hippo-me.gif" width="100"><img src="hippo-de.gif" width="100"><img src="hippo-to.gif" width="100"><img src="hippo-u.gif" alt="&nbsp;祝！還暦" width="100"><span class="yellow"><h2>&nbsp;祝！還暦</h2></span></p>
+<p align="left"> <img src="ermine.gif" width="205"><img src="hippo-o.gif" width="100"><img src="hippo-me.gif" width="100"><img src="hippo-de.gif" width="100"><img src="hippo-to.gif" width="100"><img src="hippo-u.gif" alt="&nbsp;祝！還暦" width="100"><span class="yellow">&nbsp;祝！還暦</span></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="ooizumi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
