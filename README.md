@@ -59,7 +59,8 @@ background-color: rgba(255, 255, 255, 0.3);
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
-	<span class="blue"><p align="right">背景挿入予定</p></span>
+	<span class="blue"><p align="right">背景挿入予定</p></span><br>
+<p align="left"> <img src="ermine.gif" width="100"><img src="hippo-o.gif" width="100"></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="ooizumi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
