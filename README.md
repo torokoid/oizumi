@@ -58,7 +58,7 @@ background-color: rgba(255, 255, 255, 0.3);
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
-	<span class="blue"><p align="right">背景挿入予定</p></span><br>
+	<span class="blue"><p align="right">背景挿入(TEST)</p></span><br>
 <p align="left"> <span class="yellow">&nbsp;祝！還暦</span><br><img src="hippo3.gif" width="120"><img src="ermine.gif" width="123"><img src="hippo-o.gif" width="60"><img src="hippo-me.gif" width="60"><img src="hippo-de.gif" width="60"><img src="hippo-to.gif" width="60"><img src="hippo-u.gif" alt="&nbsp;祝！還暦" width="60"></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="ooizumi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
