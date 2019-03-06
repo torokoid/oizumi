@@ -1,4 +1,4 @@
-# ooizumi
+# oizumi
 <html lang="ja">
  <head>
   <meta charset="utf-8" />
@@ -40,7 +40,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/ooizumi/sample.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/oizumi/sample.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
