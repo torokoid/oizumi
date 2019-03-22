@@ -68,14 +68,8 @@ background-color: rgba(255, 255, 255, 0.3);
 <div id="wrap">
 -->
 <section>
-<h5><span class="blue"><br>還暦祝いの場所と時間(by増子)をメモしておきます。<br><br>
-日　付：２０１９年６月１日（土）<br>
-場　所：池袋　東京芸術劇場２階　「アル・テアトロ」<br>
-受　付：１５時から<br>
-時　間：１５時３０分から１７時３０分まで<br>
-１８時までに完全撤収<br>
-その他：会費などは、未定です。記念品を作る予定ですが、希望する？しない？で変わってきます。<br>
-これから募集するので、参加人数によっては、会場も変わるかもしれません。 <br><br>
+<h5><span class="blue"><br>～～～還暦祝いの日時通知～～～<br><br>
+<img src="oizumi_30.png" alt="サンプル画像" width="1800" /> <br><br>
 <a href="http://alteatro.jp/access/" target="_blank">アル・テアトロ　アクセス</a><br>
 <!--
 <a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
