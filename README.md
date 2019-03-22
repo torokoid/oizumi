@@ -79,17 +79,18 @@ background-color: rgba(255, 255, 255, 0.3);
 </span>
 </h3>
 <br><br>
-
+<section>
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
  <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&opts=16862&num=10&ts=1549107119172");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
+</section>
 
 <br><br>
 
 <section>
-<h2><span class="white">部活関連リンク</span>
+<h2><span class="white">部活関連リンク</span><br>
 <a href="https://torokoid.github.io/ooizumi_judo">柔道部</a></h2>
 <br><br>
 </section> 
