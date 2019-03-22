@@ -68,7 +68,7 @@ background-color: rgba(255, 255, 255, 0.3);
 <div id="wrap">
 -->
 	
-<h5><span class="blue"><br>～～～還暦祝いの日時通知～～～<br><br>
+<h3><span class="blue"><br>～～～還暦祝いの日時通知～～～<br><br>
 <img src="oizumi_30.PNG" alt="サンプル画像" width="1800" /> <br><br>
 <a href="http://alteatro.jp/access/" target="_blank">アル・テアトロ　アクセス</a><br>
 <!--
@@ -77,7 +77,7 @@ background-color: rgba(255, 255, 255, 0.3);
 	<br><br>
 -->
 </span>
-</h5>
+</h3>
 <br><br>
 
 <!-- begin wwww.htmlcommentbox.com -->
