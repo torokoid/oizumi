@@ -48,7 +48,7 @@ body {
 background-color: rgba(0, 225, 0, 0.4); 
 }
 section {
-background-color: rgba(0, 128, 128, 0.8);
+background-color: rgba(0, 255, 255, 0.8);
 }
 
 </style> 
@@ -79,7 +79,7 @@ background-color: rgba(0, 128, 128, 0.8);
 </span>
 </h3>
 <br><br><br><br><br><br><br><br><br><br><br><br>
-<section><span class="snow">
+<section><span class="blue">
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
  <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
@@ -90,7 +90,7 @@ background-color: rgba(0, 128, 128, 0.8);
 <br><br><br><br><br><br>
 
 <section>
-<h2><span class="snow">部活関連リンク</span><br><br>
+<h2><span class="blue">部活関連リンク</span><br><br>
 <a href="https://torokoid.github.io/ooizumi_judo">柔道部</a></h2>
 <br>
 </section> 
