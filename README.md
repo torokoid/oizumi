@@ -76,15 +76,16 @@ background-color: rgba(0, 255, 255, 0.8);
 代　表　　増子　悦夫（6組）　携帯電話　090-9132-4287<br>
 　　　　　　　　　　　　　　　メール　　eto_mas@yahoo.co.jp<br><br>
 　田川　憲司（7組）　　　小椋　孝（8組）<br><br>
-
-<a href="http://alteatro.jp/access/" target="_blank">アル・テアトロ　アクセス</a><br>
+</span></h3>
+</section>
+<p>
+<a href="http://alteatro.jp/access/" target="_blank">アル・テアトロ　アクセス</a></p><br>
 <!--
 <a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
 	<br><br>
 -->
-</span></h3>
-</section>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
