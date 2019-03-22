@@ -48,7 +48,7 @@ body {
 background-color: rgba(0, 225, 0, 0.4); 
 }
 section {
-background-color: rgba(0, 255, 255, 0.3);
+background-color: rgba(0, 0, 128, 0.6);
 }
 
 </style> 
