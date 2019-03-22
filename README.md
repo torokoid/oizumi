@@ -48,7 +48,7 @@ body {
 background-color: rgba(0, 225, 0, 0.4); 
 }
 section {
-background-color: rgba(0, 0, 128, 0.6);
+background-color: rgba(128, 128, 128, 0.8);
 }
 
 </style> 
@@ -78,7 +78,7 @@ background-color: rgba(0, 0, 128, 0.6);
 -->
 </span>
 </h3>
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <section>
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
