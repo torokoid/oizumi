@@ -89,8 +89,8 @@ background-color: rgba(255, 255, 255, 0.3);
 <br><br>
 
 <section>
-<h3><span class="white">部活関連リンク</span></h3>
-<a href="https://torokoid.github.io/ooizumi_judo">柔道部</a>
+<h2><span class="white">部活関連リンク</span>
+<a href="https://torokoid.github.io/ooizumi_judo">柔道部</a></h2>
 <br><br>
 </section> 
 
