@@ -69,7 +69,7 @@ background-color: rgba(255, 255, 255, 0.3);
 -->
 <section>
 <h5><span class="blue"><br>～～～還暦祝いの日時通知～～～<br><br>
-<img src="oizumi_30.png" alt="サンプル画像" width="1800" /> <br><br>
+<img src="oizumi_30.PNG" alt="サンプル画像" width="1800" /> <br><br>
 <a href="http://alteatro.jp/access/" target="_blank">アル・テアトロ　アクセス</a><br>
 <!--
 <a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
