@@ -89,10 +89,8 @@ background-color: rgba(255, 255, 255, 0.3);
 <br><br>
 
 <section>
-<h3><span class="white">柔道部顧問の佐藤先生と小椋さんを入れておきますね〜スライドショーで閲覧できます。</span></h3>
-<a href="IMG_2679.jpg" data-lightbox="abc"><img src="IMG_2679.jpg" alt="サンプル画像" width="1800" /></a>
-<h3><span class="white">一期上の杉山先輩とぺヤング。</span></h3>
-<a href="S__1056805.jpg" data-lightbox="abc"><img src="S__1056805.jpg" alt="サンプル画像" width="1800" /></a>
+<h3><span class="white">部活関連リンク</span></h3>
+<a href="https://torokoid.github.io/ooizumi_judo">柔道部</a>
 <br><br>
 </section> 
 
