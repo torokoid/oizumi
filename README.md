@@ -48,7 +48,7 @@ body {
 background-color: rgba(0, 225, 0, 0.4); 
 }
 section {
-background-color: rgba(255, 255, 255, 0.3);
+background-color: rgba(0, 255, 255, 0.3);
 }
 
 </style> 
@@ -87,17 +87,17 @@ background-color: rgba(255, 255, 255, 0.3);
 <!-- end www.htmlcommentbox.com -->
 </section>
 
-<br><br>
+<br><br><br><br><br><br>
 
 <section>
-<h2><span class="white">部活関連リンク</span><br>
+<h2><span class="white">部活関連リンク</span><br><br>
 <a href="https://torokoid.github.io/ooizumi_judo">柔道部</a></h2>
-<br><br>
+<br>
 </section> 
 
 
 
-<br><br><br><br><br>	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2><span class="yellow">
  <a href="https://torokoid.github.io/seisan-3/" target="_blank">会計計算、名前と金額の入力で割り勘計算が出来ます！</a>
 	</span></h2> 
