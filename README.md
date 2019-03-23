@@ -56,7 +56,7 @@ background-color: rgba(0, 255, 255, 0.8);
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
    
 </head>
-<body onload="alert('還暦まで、よく頑張りました！'<br>'第二の人生、始まり始まり〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
+<body onload="alert('還暦まで、よく頑張りました！')<br>('第二の人生、始まり始まり〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
 	<span class="blue"><p align="right">背景挿入(TEST)</p></span><br>
 <p align="left"> <span class="yellow">&nbsp;祝！還暦</span><br><img src="hippo3.gif" width="120"><img src="ermine.gif" width="123"><img src="hippo-o.gif" width="60"><img src="hippo-me.gif" width="60"><img src="hippo-de.gif" width="60"><img src="hippo-to.gif" width="60"><img src="hippo-u.gif" alt="&nbsp;祝！還暦" width="60"></p>
