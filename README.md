@@ -74,7 +74,7 @@ background-color: rgba(0, 255, 255, 0.8);
 <h3><span class="blue">	★☆★☆★☆ 東京都立大泉高等学校30期卒業生　同期会準備委員会 ★☆★☆★☆<br><br>
 　
 代　表　　増子　悦夫（6組）　携帯電話　090-9132-4287<br>
-　　　　　　　　　　　　　　　メール　　eto_mas@yahoo.co.jp<br><br>
+　　　　　　　　　　メール　　eto_mas@yahoo.co.jp<br><br>
 　田川　憲司（7組）　　　小椋　孝（8組）<br>
 </span></h3>
 </section>
@@ -100,9 +100,13 @@ background-color: rgba(0, 255, 255, 0.8);
 
 <section>
 <h2><span class="blue">部活関連リンク</span><br><br>
-<a>sakkaーbu</a><br>
+<a>サッカー部</a><br>
 <a href="https://torokoid.github.io/ooizumi_judo" target="_blank">柔道部</a><br>
-<a>kendoubu</a>
+<a>剣道部</a><br>
+<a>バスケ部</a><br>
+<a>テニス部</a><br>
+<a>バレー部</a><br>
+<a>卓球部</a>
 	</h2>
 <br>
 </section> 
