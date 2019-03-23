@@ -79,7 +79,7 @@ background-color: rgba(0, 255, 255, 0.8);
 </span></h3>
 </section>
 <p>
-<a href="http://alteatro.jp/access/" target="_blank">アル・テアトロ　アクセス</a></p><br>
+<a href="http://alteatro.jp/access/" target="_blank">「アル・テアトロ」　アクセス</a></p><br>
 <!--
 <a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
