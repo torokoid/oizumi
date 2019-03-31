@@ -103,6 +103,7 @@ background-color: rgba(0, 255, 255, 0.8);
 <a>サッカー部</a><br>
 <a href="https://torokoid.github.io/ooizumi_judo" target="_blank">柔道部　← リンクあり</a><br>
 <a>剣道部</a><br>
+<a>ボート部</a><br>
 <a>バスケ部</a><br>
 <a>テニス部</a><br>
 <a>バレー部</a><br>
