@@ -52,7 +52,7 @@ background-color: rgba(0, 225, 0, 0.8);
 }
 
 </style> 
-rgba
+
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
    
 </head>
