@@ -51,7 +51,8 @@ section {
 background-color: rgba(0, 225, 0, 0.8);
 }
 
-@media screen and (orientation: landscape) {
+@media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
    p.note { display: none; }
 }
 
