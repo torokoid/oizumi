@@ -66,10 +66,10 @@ background-color: rgba(0, 225, 0, 0.8);
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
 	<span class="blue"><p align="right">背景挿入(本番画像と差し替え予定)</p></span><br>
 
-<div style="background-color: rgba(0,255,0,0.7)";>
-<p class="note">
+
+<p class="note"><div style="background-color: rgba(0,255,0,0.7)";>
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
-</p></div>
+</div></p>
 
 <p align="left"> <span class="yellow">&nbsp;祝！還暦</span><br><img src="hippo3.gif" width="120"><img src="ermine.gif" width="123"><img src="hippo-o.gif" width="60"><img src="hippo-me.gif" width="60"><img src="hippo-de.gif" width="60"><img src="hippo-to.gif" width="60"><img src="hippo-u.gif" alt="&nbsp;祝！還暦" width="60"></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -91,7 +91,7 @@ background-color: rgba(0, 225, 0, 0.8);
 </span></h4>
 </section>
 <p>
-<a href="http://alteatro.jp/access/" target="_blank">「アル・テアトロ」　アクセス</a></p><br>
+	<a href="http://alteatro.jp/access/" target="_blank"><h4>「アル・テアトロ」　アクセス</h4></a></p><br>
 <!--
 <a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
