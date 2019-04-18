@@ -66,9 +66,10 @@ background-color: rgba(0, 225, 0, 0.8);
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
 	<span class="blue"><p align="right">背景挿入(本番画像と差し替え予定)</p></span><br>
 
+<div style="background-color: rgba(0,255,0,0.7)";>
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
-</p>
+</p></div>
 
 <p align="left"> <span class="yellow">&nbsp;祝！還暦</span><br><img src="hippo3.gif" width="120"><img src="ermine.gif" width="123"><img src="hippo-o.gif" width="60"><img src="hippo-me.gif" width="60"><img src="hippo-de.gif" width="60"><img src="hippo-to.gif" width="60"><img src="hippo-u.gif" alt="&nbsp;祝！還暦" width="60"></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -82,12 +83,12 @@ background-color: rgba(0, 225, 0, 0.8);
 <h3><span class="blue"><br>～～～還暦祝いの日時通知～～～<br><br>
 <img src="oizumi_30.PNG" alt="サンプル画像" width="1800" /> <br><br>
 <section>
-<h3><span class="blue">	★☆★☆★☆ 東京都立大泉高等学校30期卒業生　同期会準備委員会 ★☆★☆★☆<br><br>
+<h4><span class="blue">	★☆★☆★☆ 東京都立大泉高等学校30期卒業生　同期会準備委員会 ★☆★☆★☆<br><br>
 　
 代　表　　増子　悦夫（6組）　携帯電話　090-9132-4287<br>
 　　　　　　　　　　メール　　eto_mas@yahoo.co.jp<br><br>
 　田川　憲司（7組）　　　小椋　孝（8組）<br>
-</span></h3>
+</span></h4>
 </section>
 <p>
 <a href="http://alteatro.jp/access/" target="_blank">「アル・テアトロ」　アクセス</a></p><br>
