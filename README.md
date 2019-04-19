@@ -119,7 +119,8 @@ background-color: rgba(0, 225, 0, 0.8);
 <a>バスケ部</a><br>
 <a>テニス部</a><br>
 <a>バレー部</a><br>
-<a>卓球部</a>
+<a>卓球部</a><br><br>
+<a href="https://torokoid.github.io/hannari" target="_blank">雪路 はんなりの会　← リンクあり</a><br>
 	</h2>
 <br>
 </section> 
