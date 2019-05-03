@@ -99,8 +99,8 @@ background-color: rgba(0, 225, 0, 0.8);
 </section>
 <p>
 	<a href="http://alteatro.jp/access/" target="_blank"><h4>「アル・テアトロ」　アクセス</h4></a>
-	<a href="https://torokoid.github.io/alteatoro"><h4>「アル・テアトロ」会場事前視察</h4></a>
-	<a href="https://torokoid.github.io/jizou/"><h4>二次会会場「大馬鹿地蔵」</h4></a></p><br>
+	<a href="https://torokoid.github.io/alteatoro"><h4>一時会会場、事前視察「アル・テアトロ」</h4></a>
+	<a href="https://torokoid.github.io/jizou/"><h4>二次会会場、事前視察「大馬鹿地蔵」</h4></a></p><br>
 <!--
 <a href="https://tabelog.com/tokyo/A1305/A130501/13145399/party/" target="_blank">、　食べログリンク</a></span>
 <span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
