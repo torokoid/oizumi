@@ -131,7 +131,9 @@ background-color: rgba(0, 225, 0, 0.8);
 <a>卓球部</a><br><br>
 <a href="https://torokoid.github.io/hannari">雪路 はんなりの会　← リンクあり</a><br>
 <a href="https://torokoid.github.io/oizumi2010">同期会 2010 ← リンクあり</a><br>
-	</h2>
+<a href="https://torokoid.github.io/mascot/">体育祭マスコット写真、 ← リンクあり</a><br>
+
+</h2>
 <br>
 </section> 
 
