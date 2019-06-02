@@ -65,7 +65,7 @@ background-color: rgba(0, 225, 0, 0.8);
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>>2019年同期会</p>
-	<span class="blue"><p align="right">背景挿入(本番画像と差し替え予定)</p></span><br>
+	<span class="blue"><p align="right"><a href="https://torokoid.github.io/kanreki">本番画像リンク</a></p></span><br>
 
 
 <p class="note">
