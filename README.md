@@ -64,7 +64,7 @@ background-color: rgba(0, 225, 0, 0.8);
 <body onload="alert('還暦まで、よく頑張りました！　第二の人生、始まり始まり〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
-<p><a href="https://torokoid.github.io/home">Home</a>>2019年同期会><a href="https://torokoid.github.io/kanreki">本番画像リンク><a href="https://torokoid.github.io/shiba">写真集</a></p>
+<p><a href="https://torokoid.github.io/home">Home</a>>2019年同期会><a href="https://torokoid.github.io/kanreki">>本番画像リンク><a href="https://torokoid.github.io/shiba">写真集</a></p>
 
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
