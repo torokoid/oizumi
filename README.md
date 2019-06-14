@@ -160,12 +160,12 @@ background-color: rgba(0, 225, 0, 0.8);
 下の写真は大学3年の頃だったか、戸田晴樹、安藤理英子、田中啓子、の4人で北八ヶ岳へ2泊3日で行った時の写真です。9月でしたが、2日目に雪となりました。心細い中、何とかたどり着いた山小屋には、主人からの張り紙がしてあり、私用で山を降りるので自由に使って欲しい、と書かれてました。もちろん僕らだけでした。4人で寒い中暖をとり、朝を迎えた体験は、僕の山登り経験の中でも貴重な、そして素晴らしい体験だったと言えます。
 安藤さんは、その後、若くしてお亡くなりになったことを風の便りで知りました。今回、頂いた名簿で、田中啓子さんもお亡くなりにになっていたことを初めて知りました。全く知りませんでした。ショックでした。
 お二人にとって、素敵な思い出としてその後の人生の中で記憶に残っていたかな、と今更ながら思いました。僕らの仲間に、こんなお二人がいた事を記憶にとどめて欲しいと思い、敢えて写真を載せました。長文で失礼しました。<br><br>2019/06/11</span></h3></section><br><br>
-<a href="20190611_001.JPG" data-lightbox="abc"><img src="20190611_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190611_002.JPG" data-lightbox="abc"><img src="20190611_002.JPG" alt="サンプル画像" width="900" /></a>
-<section><h2><span class="blue">エピソード反映後のLINE会話です。</span></h2></section>
-<a href="20190611_003.JPG" data-lightbox="abc"><img src="20190611_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190611_004.JPG" data-lightbox="abc"><img src="20190611_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190611_005.JPG" data-lightbox="abc"><img src="20190611_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190611_001.JPG" data-lightbox="abc"><img src="20190611_001.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20190611_002.JPG" data-lightbox="abc"><img src="20190611_002.JPG" alt="サンプル画像" width="1800" /></a>
+<section><h2><span class="blue">エピソード反映後のLINE会話です。右からの発言がペヤング。</span></h2></section>
+<a href="20190611_003.JPG" data-lightbox="abc"><img src="20190611_003.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20190611_004.JPG" data-lightbox="abc"><img src="20190611_004.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20190611_005.JPG" data-lightbox="abc"><img src="20190611_005.JPG" alt="サンプル画像" width="1800" /></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 
