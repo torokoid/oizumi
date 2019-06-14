@@ -162,7 +162,7 @@ background-color: rgba(0, 225, 0, 0.8);
 お二人にとって、素敵な思い出としてその後の人生の中で記憶に残っていたかな、と今更ながら思いました。僕らの仲間に、こんなお二人がいた事を記憶にとどめて欲しいと思い、敢えて写真を載せました。長文で失礼しました。<br><br>2019/06/11</span></h3></section><br><br>
 <a href="20190611_001.JPG" data-lightbox="abc"><img src="20190611_001.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="20190611_002.JPG" data-lightbox="abc"><img src="20190611_002.JPG" alt="サンプル画像" width="1800" /></a>
-<section><h2><span class="blue">エピソード反映後のLINE会話です。右からの発言がペヤング。</span></h2></section>
+<section><h4><span class="blue">エピソード反映後のLINE会話です。右からの発言がペヤング。</span></h4></section>
 <a href="20190611_003.JPG" data-lightbox="abc"><img src="20190611_003.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="20190611_004.JPG" data-lightbox="abc"><img src="20190611_004.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="20190611_005.JPG" data-lightbox="abc"><img src="20190611_005.JPG" alt="サンプル画像" width="1800" /></a>
