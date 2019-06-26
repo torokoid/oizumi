@@ -71,7 +71,7 @@ background-color: rgba(0, 225, 0, 0.8);
 </p>
 
 <p align="left"> <span class="yellow">&nbsp;祝！還暦</span><br><img src="hippo3.gif" width="120"><img src="ermine.gif" width="123"><img src="hippo-o.gif" width="60"><img src="hippo-me.gif" width="60"><img src="hippo-de.gif" width="60"><img src="hippo-to.gif" width="60"><img src="hippo-u.gif" alt="&nbsp;祝！還暦" width="60"></p>
-<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>
+<!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="ooizumi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
