@@ -156,7 +156,7 @@ background-color: rgba(0, 225, 0, 0.8);
 </h2>
 <br>
 </section> 
-<a href="http://norikoyoshida.jp">クリックでProfileに飛びます。</a>
+<a href="http://norikoyoshida.jp">クリックで吉田紀子さんProfileに飛びます。</a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
