@@ -150,12 +150,13 @@ background-color: rgba(0, 225, 0, 0.8);
 <a href="https://torokoid.github.io/oizumi2010">同期会 2010 ← リンクあり</a><br>
 <a href="https://torokoid.github.io/izumikai">いずみ会 2010 ← リンクあり</a><br>
 <a href="https://torokoid.github.io/mascot/">体育祭マスコット写真、 ← リンクあり</a><br>
-<a href="https://torokoid.github.io/ensoku/">遠足の写真、 ← リンクあり</a><br>
+<a href="https://torokoid.github.io/ensoku/">遠足の写真、 ← リンクあり</a><br><br>
+
 
 </h2>
 <br>
 </section> 
-
+<a href="http://norikoyoshida.jp">クリックでProfileに飛びます。</a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
