@@ -175,8 +175,13 @@ background-color: rgba(0, 225, 0, 0.8);
 <a href="20190611_004.JPG" data-lightbox="abc"><img src="20190611_004.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="20190611_005.JPG" data-lightbox="abc"><img src="20190611_005.JPG" alt="サンプル画像" width="1800" /></a>
 <br><br><br>
-
-
+<section><h3><span class="blue">
+6組、船津　毅さんよりメッセージいただきました。<br><br>
+おはよう、<br>
+還暦同窓会でもらった名簿で和田ひろみが鹿児島市内に住んでることがわかり、連絡取り合って、昨日42年ぶりに再会した。<br>
+改めてありがとう。<br>
+船津<br><br>2019/07/21</span></h3></section><br><br>
+<a href="20190720_001.JPG" data-lightbox="abc"><img src="20190720_001.JPG" alt="サンプル画像" width="1800" /></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 
