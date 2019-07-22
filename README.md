@@ -48,7 +48,7 @@ body {
 background-color: rgba(0, 225, 0, 0.4); 
 }
 section {
-background-color: rgba(0, 225, 0, 0.8);
+background-color: rgba(0, 225, 0, 0.4);
 }
 
 @media	screen and (min-width: 540px),
@@ -160,7 +160,7 @@ background-color: rgba(0, 225, 0, 0.8);
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<section><h3><span class="blue">
+<section><h3><span class="white">
 2組、松井　久仁雄さんよりメッセージいただきました。<br><br>
 同期会から、はや、10日も経ってしまいました。今回は幹事の皆様には大変お世話になりました。とても素晴らしい会でした。御礼が遅れましたが、ありがとうございました。
 1-8(菊谷)、2-1(菊谷)、3-2(青木)、剣道部、応援団、現在静岡県在住のの松井です。前回は新しい出会いがありましたが、今回は卒業以来という方に何人もお会いして、そちらで話が盛り上がってしまいました。<br><br>
@@ -175,7 +175,7 @@ background-color: rgba(0, 225, 0, 0.8);
 <a href="20190611_004.JPG" data-lightbox="abc"><img src="20190611_004.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="20190611_005.JPG" data-lightbox="abc"><img src="20190611_005.JPG" alt="サンプル画像" width="1800" /></a>
 <br><br><br>
-<section><h3><span class="blue">
+<section><h3><span class="white">
 6組、船津　毅さんよりメッセージいただきました。<br><br>
 おはよう、<br>
 還暦同窓会でもらった名簿で和田ひろみが鹿児島市内に住んでることがわかり、連絡取り合って、昨日42年ぶりに再会した。<br>
