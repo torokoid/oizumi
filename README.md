@@ -48,7 +48,7 @@ body {
 background-color: rgba(0, 225, 0, 0.4); 
 }
 section {
-background-color: rgba(0, 225, 0, 0.4);
+background-color: rgba(0, 225, 0, 0.6);
 }
 
 @media	screen and (min-width: 540px),
