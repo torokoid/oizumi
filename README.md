@@ -56,6 +56,25 @@ background-color: rgba(0, 225, 0, 0.6);
    p.note { display: none; }
 }
 
+/* 点滅 */
+.blinking{
+	-webkit-animation:blink 1.5s ease-in-out infinite alternate;
+    -moz-animation:blink 1.5s ease-in-out infinite alternate;
+    animation:blink 1.5s ease-in-out infinite alternate;
+}
+@-webkit-keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+@-moz-keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+@keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
 </style> 
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
@@ -65,7 +84,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 大泉高校、３０期同窓会HP !!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>>2019年同期会><a href="https://torokoid.github.io/kanreki">還暦祝い＠池袋</a>><a href="https://torokoid.github.io/shiba">写真集</a></p>
-<p><a href="https://torokoid.github.io/oizumi_jigo">鹿児島支部情報</a></p>
+<p><a href="https://torokoid.github.io/oizumi_jigo"><span class="blinking">鹿児島支部情報</span></a></p>
 
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
