@@ -80,10 +80,10 @@ background-color: rgba(0, 225, 0, 0.4);
 <div id="wrap">
 -->
 
-<h3><span class="blue"><br>～～～還暦祝いの日時通知～～～<br><br>
+<h3><span class="white"><br>～～～還暦祝いの日時通知～～～<br><br>
 <img src="oizumi_30.PNG" alt="サンプル画像" width="1800" /> <br><br>
 <section>
-<h4><span class="blue">	★☆★☆★☆ 東京都立大泉高等学校30期卒業生　同期会準備委員会 ★☆★☆★☆<br><br>
+<h4><span class="white">★☆★☆★☆ 東京都立大泉高等学校30期卒業生　同期会準備委員会 ★☆★☆★☆<br><br>
 　
 代　表　　増子　悦夫（6組）　携帯電話　090-9132-4287<br>
 　　　　　　　　　　メール　　eto_mas@yahoo.co.jp<br><br>
@@ -135,7 +135,7 @@ background-color: rgba(0, 225, 0, 0.4);
 <br><br><br><br><br><br>
 
 <section>
-<h2><span class="blue">部活関連リンク</span><br><br>
+<h2><span class="white">部活関連リンク</span><br><br>
 <a href="https://torokoid.github.io/ohizumi_soccer" target="_blank">サッカー部 ← リンクあり</a><br>
 <a href="https://torokoid.github.io/ooizumi_judo" target="_blank">柔道部　← リンクあり</a><br>
 <a>剣道部</a><br>
