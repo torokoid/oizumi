@@ -157,6 +157,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <h2><span class="white">部活関連リンク</span><br><br>
 <a href="https://torokoid.github.io/ohizumi_soccer" target="_blank">サッカー部 ← リンクあり</a><br>
 <a href="https://torokoid.github.io/ooizumi_judo" target="_blank">柔道部　← リンクあり</a><br>
+<a href="https://torokoid.github.io/ooizumi_yakyu" target="_blank">野球部、後輩たち　← リンクあり</a><br>
 <a>剣道部</a><br>
 <a>ボート部</a><br>
 <a>バスケ部</a><br>
